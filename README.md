@@ -16,10 +16,11 @@ Dont need to download anything else
 2. For Wikipedia URL : - You can Take any wikipedia URL. Here's a sample URL : https://en.wikipedia.org/wiki/Worldwar_series
 
 ## How to Locate and run the code 
-Step 1:- Traverse in the directory 
-Step 2: - Pull the main Branch 
-Step 3: - run userinterface.py
-Step 4: - Select either option of text or URL and add text of your like or any url according to the selection
+
+1. Step 1:- Traverse in the directory 
+2. Step 2: - Pull the main Branch 
+3. Step 3: - run userinterface.py
+4. Step 4: - Select either option of text or URL and add text of your like or any url according to the selection
 
 Note: - Output for wordcloud and class distribution will be visible in figures 
 where as the top 10 NER talked about and sentiment towards the NER will be visible in the terminal
